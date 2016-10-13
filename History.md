@@ -1,3 +1,8 @@
+3.0.0 / 2016-08-13
+==================
+
+  * Fork from from segmentio/analytics-node
+  * Remove browserify and superagent-proxy deps
 
 2.1.0 / 2016-03-31
 ==================

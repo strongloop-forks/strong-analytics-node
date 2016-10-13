@@ -1,14 +1,14 @@
+NOTE: This module is a fork of segmentio/analytics-node. It removes browserify and superagent-proxy requirements in order to
+remove regenerator dependency which has problematic licensing terms.
 
 #analytics-node
-
-[![Build Status](https://api.travis-ci.org/segmentio/analytics-node.svg?branch=master)](https://travis-ci.org/segmentio/analytics-node)
 
 A node.js client for [Segment](https://segment.com) — The hassle-free way to integrate analytics into any application.
 
 ## Installation
 
 ```bash
-$ npm install --save analytics-node
+$ npm install --save strong-analytics-node
 ```
 
 ## Documentation
