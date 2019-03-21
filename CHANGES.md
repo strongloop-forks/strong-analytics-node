@@ -1,7 +1,10 @@
+
+
 2019-03-21, Version 3.0.2
 =========================
 
- * Upgrade vulnerable dependencies (Ying Lu)
+ * Upgrade vulnerable dependencies. (Ying Lu)
+
 
 2016-10-13, Version 3.0.1
 =========================
