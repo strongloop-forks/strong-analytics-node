@@ -1,7 +1,7 @@
 {
   "name": "strong-analytics-node",
   "repository": "git://github.com/strongloop-forks/strong-analytics-node",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "The hassle-free way to integrate analytics into any node application.",
   "keywords": [
     "analytics",
@@ -21,8 +21,8 @@
     "crypto-token": "^1.0.1",
     "debug": "^2.2.0",
     "join-component": "~1.0.0",
-    "lodash": "~2.4.1",
-    "superagent": "^1.4.0",
+    "lodash": "^4.17.11",
+    "superagent": "^4.1.0",
     "superagent-retry": "^0.5.1"
   },
   "devDependencies": {
